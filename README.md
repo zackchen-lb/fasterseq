@@ -31,7 +31,7 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 <details><summary>List of implemented papers</summary><p>
 
 - **Transformer (self-attention) networks**
-  - [Lite Transformer with Long-Short Range Attention (Wu et al., 2020)]	(https://arxiv.org/abs/2004.11886)
+  - [Lite Transformer with Long-Short Range Attention (Wu et al., 2020)](https://arxiv.org/pdf/2004.11886.pdf)
 
 </p></details>
 
