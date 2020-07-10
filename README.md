@@ -28,7 +28,7 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 * If you use Docker make sure to increase the shared memory size either with
 `--ipc=host` or `--shm-size` as command line options to `nvidia-docker run`.
 
-<details><summary>List of implemented papers</summary><p>
+<details><summary>List of implemented techniques (ongoing)</summary><p>
 
 - **Transformer (self-attention) networks**
   - [Lite Transformer with Long-Short Range Attention (Wu et al., 2020)](https://arxiv.org/pdf/2004.11886.pdf)
