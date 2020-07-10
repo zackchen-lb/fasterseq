@@ -29,8 +29,10 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 `--ipc=host` or `--shm-size` as command line options to `nvidia-docker run`.
 
 <details><summary>List of implemented papers</summary><p>
+
 - **Transformer (self-attention) networks**
-  - [Lite Transformer with Long-Short Range Attention (Wu et al., 2020)](https://arxiv.org/abs/2004.11886)
+  - [Lite Transformer with Long-Short Range Attention (Wu et al., 2020)]	(https://arxiv.org/abs/2004.11886)
+
 </p></details>
 
 The authors from MIT-Han-Lab have already published their fairseq-based codes, one may check out [here](https://github.com/mit-han-lab/lite-transformer). Additionally, I re-implement the Lite-Transformer since the authors seem used an old version of *fairseq* and it may cause further conflicts especially when you need to apply the *incremenral_state* function.  Before you test the model, please make sure you install the cuda version *lightConv* and *dynamicConv* by:
