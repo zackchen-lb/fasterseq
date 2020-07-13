@@ -32,6 +32,7 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
 
 - **Transformer (self-attention) networks**
   - [Lite Transformer with Long-Short Range Attention (Wu et al., 2020)](https://arxiv.org/pdf/2004.11886.pdf)
+  - [Multi-Head Attention: Collaborate Instead of Concatenate](https://arxiv.org/pdf/2006.16362.pdf)
 
 </p></details>
 
